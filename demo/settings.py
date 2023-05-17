@@ -87,11 +87,10 @@ TEMPLATES = [
         },
     },
 ]
-
 WSGI_APPLICATION = 'demo.wsgi.application'
 # ASGI_APPLICATION = 'demo.routing.application'
 ASGI_APPLICATION = 'demo.asgi.application' 
-
+sss
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
